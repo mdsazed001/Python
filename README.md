@@ -1,1 +1,3 @@
 # Python
+*rice
+*lime
